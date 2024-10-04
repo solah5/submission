@@ -1,4 +1,4 @@
-# Bike Sharing Dashboard ✨
+# Bike Rental Dashboard 
 
 ## Setup Environment - Anaconda
 ```
